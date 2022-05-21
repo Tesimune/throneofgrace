@@ -13,7 +13,7 @@ import Footer from './components/layouts/Footer.vue'
         <Header />
         <Slider />
 
-        <Index></Index>
+        <Index />
 
         <Footer />
 

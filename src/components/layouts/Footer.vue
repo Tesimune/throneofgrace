@@ -9,7 +9,7 @@ const count = ref(0)
 </script>
 
 <template>
-    <footer class="p-4 text-white sm:p-6 bg-gray-800">
+    <footer class="grid p-4 text-white sm:p-6 bg-gray-800">
         <div class="md:flex md:justify-between">
             <div class="mb-6 md:mb-0">
                 <a href="https://tesimune.vercel.app" class="flex items-center">
